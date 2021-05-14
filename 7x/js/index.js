@@ -44,7 +44,7 @@ var height = window.innerHeight;
 var textSize = 0;
 var textCenter = 0;
 var letters = [];
-var prompt = ['傻', '婷', '婷', ' ', '七', '夕', '节', '快', '乐', '噢'];
+var prompt = [''];
 var runPrompt = true;
 
 var resizePage = function resizePage() {
